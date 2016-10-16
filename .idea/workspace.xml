@@ -150,7 +150,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -225,7 +225,7 @@
       <workItem from="1476355744206" duration="1336000" />
       <workItem from="1476374506656" duration="1719000" />
       <workItem from="1476379500404" duration="2341000" />
-      <workItem from="1476636411434" duration="3058000" />
+      <workItem from="1476636411434" duration="3474000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1 (stert)">
       <created>1476382512342</created>
@@ -269,11 +269,18 @@
       <option name="project" value="LOCAL" />
       <updated>1476647956249</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ver 1 (stert)">
+      <created>1476649255720</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1476649255721</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16058000" />
+    <option name="totallyTimeSpent" value="16474000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="100" width="1400" height="747" extended-state="0" />
