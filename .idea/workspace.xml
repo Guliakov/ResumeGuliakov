@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26e1c1b1-2afb-4057-89fd-8f9e3ae6da0b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resume_Guliakov.html" afterPath="$PROJECT_DIR$/Resume_Guliakov.html" />
     </list>
     <ignored path="Sheldon COOPER - Physicien surdouВ et Geek qualifiВ_files.iws" />
@@ -30,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/Resume_Guliakov.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="98">
-              <caret line="91" column="36" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
+              <caret line="91" column="60" selection-start-line="91" selection-start-column="60" selection-end-line="91" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -225,7 +222,7 @@
       <workItem from="1476355744206" duration="1336000" />
       <workItem from="1476374506656" duration="1719000" />
       <workItem from="1476379500404" duration="2341000" />
-      <workItem from="1476636411434" duration="176000" />
+      <workItem from="1476636411434" duration="395000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1 (stert)">
       <created>1476382512342</created>
@@ -238,7 +235,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13176000" />
+    <option name="totallyTimeSpent" value="13395000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="100" width="1400" height="747" extended-state="0" />
@@ -407,7 +404,7 @@
     <entry file="file://$PROJECT_DIR$/Resume_Guliakov.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
-          <caret line="91" column="36" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
+          <caret line="91" column="60" selection-start-line="91" selection-start-column="60" selection-end-line="91" selection-end-column="60" />
           <folding />
         </state>
       </provider>
